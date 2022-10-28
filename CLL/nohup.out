@@ -1,0 +1,20 @@
+/Users/rosalie/opt/anaconda3/lib/python3.7/site-packages/matplotlib/__init__.py:1003: UserWarning: Duplicate key in file "/Users/rosalie/.matplotlib/matplotlibrc", line #2
+  (fname, cnt))
+22663
+29896
+5807
+22158
+15032
+24046
+25067
+26099
+19252
+20307
+24830
+28047
+28066
+28476
+Traceback (most recent call last):
+  File "script.py", line 134, in <module>
+    tumor = tumor[idx]
+IndexError: index 71748 is out of bounds for axis 0 with size 60
