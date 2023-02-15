@@ -1,4 +1,4 @@
-# Kmeans clustering in Assisting ALL and CLL Leukemia Diagnosis
+# Computational identififcation of CLL and B-ALL leukemic cells for blood cancer diagnosis
 ## Introduction
 Leukemia is a major type of blood cancer. The current diagnosis of leukemia based on flow cytometry data requires a manual data analytical process called manual gating analysis, which is ad hoc, subjective, and labor-intensive. Computational analysis of such high-dimensional single cell data is challenging. Data clustering methods such as K-means provides data-driven insights into phenotypic heterogneity of the cancer cells, which identify cell populations based on examining on celluar expressions of all markers simultaneously. In this project, we assessed multiple computational methods in their ability of identifying blood cancer cells for both sample-level diagnosis and cell-level estimation of cancer burden, using two independent datasets (CLL: chronic lymphocytic leukemia and B-ALL: B-cell lymphoblastic leukemia). 
 ## Data
